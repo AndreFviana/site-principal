@@ -1,0 +1,16 @@
+* {
+  background: #696969;
+  color: white;
+
+}
+
+body {
+  text-align: center;
+}
+
+.navbar {
+  list-style: none;
+  display: inline;
+  text-align: end;
+
+}
