@@ -1,11 +1,15 @@
-* {
-  background: #696969;
-  color: white;
-
-}
-
 body {
   text-align: center;
+  background: black;
+  color: greenyellow;
+}
+
+body form {
+  padding: 09%;
+}
+
+body #clique-aqui {
+  background: #B22222;
 }
 
 .navbar {
