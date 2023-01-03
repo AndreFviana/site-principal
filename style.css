@@ -2,8 +2,8 @@
 
 body {
   text-align: center;
-  background: black;
-  color: greenyellow;
+  background: orange;
+  color: black;
   box-sizing: border-box;
   font-family: 'Rubik Vinyl', cursive;
 }
@@ -22,18 +22,21 @@ li {
   justify-content: space-between;
   display: inline-block;
   padding: 20px;
+  color: greenyellow
 }
 
 li.active,
 li:hover {
-  background: white;
+  background: pink;
   transition: .5s;
   opacity: 60%;
   cursor: pointer;
 }
 
 body form {
-  padding: 09%;
+  padding: 10%;
+
+
 }
 
 body #clique-aqui {
